@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/Tharu79" target="blank">
+  <a href="https://twitter.com/Tharu791" target="blank">
     <img src="https://img.shields.io/twitter/follow/Tharu791?logo=twitter&style=for-the-badge" alt="Tharu791" />
   </a>
 </p>
@@ -71,6 +71,6 @@
 
 
 
-Credit: [Tharushi Gamaarachchi](https://github.com/Tharu79)
+Credit: [Tharushi Gamaarachchi](https://github.com/Tharu791)
 
 Last Edited on: 10/23/2024
